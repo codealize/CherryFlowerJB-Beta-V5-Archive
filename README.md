@@ -10,5 +10,5 @@ https://youtu.be/72j9iOQGQ70
 
 # Version that was archived: ch3rryflower - v1.3 beta 5
 
-# This archive is protected by the MIT license and GNU public distributor license. For more info, please read LICENSE.MD, thanks!
+# This archive is protected by the MIT license and GNU public distributor license. For more info, please read LICENSE!
 
